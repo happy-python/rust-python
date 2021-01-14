@@ -22,5 +22,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 $ sh run.sh
 ```
 
+### rust 扩展 python 库
+https://crates.io/crates/pyo3
+https://crates.io/crates/cpython
+
 #### 参考
 https://codeburst.io/how-to-use-rust-to-extend-python-360174ee5819
